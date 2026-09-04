@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/1480-running-sum-of-1d-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
