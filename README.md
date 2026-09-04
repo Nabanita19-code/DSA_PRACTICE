@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0905-sort-array-by-parity) |
 ## Prefix Sum
 |  |
 | ------- |
