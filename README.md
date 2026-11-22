@@ -69,8 +69,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
