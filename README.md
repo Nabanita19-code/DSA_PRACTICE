@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0867-transpose-matrix](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/1672-richest-customer-wealth) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0229-majority-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
