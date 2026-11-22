@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0414-third-maximum-number) |
+| [0724-find-pivot-index](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
