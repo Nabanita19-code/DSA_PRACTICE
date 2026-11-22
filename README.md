@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0905-sort-array-by-parity) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
