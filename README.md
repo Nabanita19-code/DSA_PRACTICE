@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0303-range-sum-query-immutable) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 ## String
@@ -86,9 +89,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
