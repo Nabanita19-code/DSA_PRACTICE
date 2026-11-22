@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0905-sort-array-by-parity) |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0303-range-sum-query-immutable) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
