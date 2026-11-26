@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0069-sqrtx) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0867-transpose-matrix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Nabanita19-code/DSA_PRACTICE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
